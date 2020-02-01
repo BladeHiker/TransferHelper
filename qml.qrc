@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>1.png</file>
+        <file>stadb.xml</file>
+        <file>stadb0.xml</file>
+        <file>transdb.xml</file>
+        <file>SourceCodePro-Regular.ttf</file>
+        <file>SourceHanSansHWSC-Bold.otf</file>
+        <file>arial.ttf</file>
+        <file>logo_qt.png</file>
+    </qresource>
+</RCC>

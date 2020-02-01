@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<transfer>
+    <item>
+        <from>航空航天大学站</from>
+        <to>沈阳航空航天大学</to>
+    </item>
+    <item>
+        <from>怀远门站</from>
+        <to>大西门</to>
+    </item>
+</transfer>

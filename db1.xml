@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="gbk"?>
+<Transfer>
+    <Trans From="航空航天大学站" To="沈阳站站" Times="2">
+        <item>
+            <start>航空航天大学站</start>
+            <end>青年大街站</end>
+            <line>沈阳地铁2号线</line>
+            <color>#ef7039</color>
+        </item>
+        <item>
+            <start>青年大街站</start>
+            <end>沈阳站站</end>
+            <line>沈阳地铁1号线</line>
+            <color>#dd4432</color>
+        </item>
+    </Trans>
+    <Trans From="航空航天大学站" To="沈阳站站" Times="2">
+        <item>
+            <start>航空航天大学站</start>
+            <end>青年大街站</end>
+            <line>沈阳地铁2号线</line>
+            <color>#ef7039</color>
+        </item>
+        <item>
+            <start>青年大街站</start>
+            <end>沈阳站站</end>
+            <line>沈阳地铁1号线</line>
+            <color>#dd4432</color>
+        </item>
+    </Trans>
+</Transfer>

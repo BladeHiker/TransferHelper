@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<station>
+    <item>
+        <name>十三号街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>中央大街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>七号街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>四号街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>张士站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>开发大道站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>于洪广场站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>迎宾路站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>重工街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>启工街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>保工街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>铁西广场站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>云峰北街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>沈阳站站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>太原街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>南市场站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>青年大街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>怀远门站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>中街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>东中街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>滂江街站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>黎明广场站</name>
+        <line color="#dd4432" type="0">地铁1号线</line>
+    </item>
+    <item>
+        <name>蒲田路站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>蒲河路站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>人杰湖公园站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>辽宁大学站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>航空航天大学站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>师范大学站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>医学院站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>三台子站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>陵西站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>新乐遗址站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>北陵公园站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>中医药大学站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>岐山路站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>沈阳北站站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>金融中心站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>市府广场站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>青年大街站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>青年公园站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>工业展览馆站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>市图书馆站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>五里河站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>奥体中心站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>营盘街站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>世纪大厦站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>白塔河路站</name>
+        <line color="#ef7039" type="0">地铁2号线</line>
+    </item>
+    <item>
+        <name>怒江公园站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>淮河街沈医二院站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>皇姑屯站（暂缓开通）</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>北二路站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>铁西广场站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>兴华公园站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>滑翔站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>大通湖街站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>浑河站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>长白南站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>金阳大街站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>奥体中心站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>天成街站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>长青南街站</name>
+        <line color="#3585a7" type="0">地铁9号线</line>
+    </item>
+    <item>
+        <name>地铁惠民新城</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>道义大街道义</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>龙腾碧玉湾</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>瀚博皇家御湾</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>太湖国际花园</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>瀚博皇家御院</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>辽宁大学北校区</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>沈阳航空航天大学</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>唐轩公馆</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>沈阳师范大学</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>四台子</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>黄河大街万山路</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>沈阳医学院</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>七三九医院</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>何氏眼科医院</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>丽晶公馆</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>松陵文化宫</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>三台子</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>沈飞集团</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>航空博览园</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>客运出租公司</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>金山小区</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>北陵东门</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>武功山小区</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>省游泳馆</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>松花江街崇山路</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>宁山路小学</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>省消防总队</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>敬宾街</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>省高级法院</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>市物价局</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>天后宫</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>太清宫北</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>小西门</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>大西门</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>风雨坛街沈州路</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>风雨坛街热闹路</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+    <item>
+        <name>五爱市场西区</name>
+        <line color="#0078d7" type="2">公交157路</line>
+    </item>
+</station>
